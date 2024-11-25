@@ -8,7 +8,7 @@ public class GrpcServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GrpcServerApplication.class, args);
-		System.out.println("gRPC Server started on ...");
+		//System.out.println("gRPC Server started on ...");
 
 	}
 

@@ -1,4 +1,4 @@
-package org.xproce.stubs;
+package com.example.grpcclient;
 
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
